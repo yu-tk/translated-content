@@ -2340,5 +2340,3 @@
 /zh-CN/docs/收集_In-Memory_数据源	/zh-CN/docs/Aggregating_the_In-Memory_Datasource
 /zh-CN/docs/网页代码移植：从_IE_到_Mozilla	/zh-CN/docs/Migrate_apps_from_Internet_Explorer_to_Mozilla
 /zh-CN/docs/首页	/zh-CN/docs/Web
-
-
