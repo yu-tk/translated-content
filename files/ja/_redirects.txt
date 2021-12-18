@@ -276,7 +276,7 @@
 /ja/docs/CSS/Length	/ja/docs/Web/CSS/Length
 /ja/docs/CSS/Media	/ja/docs/Web/CSS/@media
 /ja/docs/CSS/Media/Visual	/ja/docs/Web/CSS/@media
-/ja/docs/CSS/Media_queries	/ja/docs/Web/CSS/Media_queries
+/ja/docs/CSS/Media_queries	/ja/docs/Web/CSS/Media_Queries
 /ja/docs/CSS/Multiple_backgrounds	/ja/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds
 /ja/docs/CSS/Other_Resources	/ja/docs/Web/CSS
 /ja/docs/CSS/Privacy_and_the_:visited_selector	/ja/docs/Web/CSS/Privacy_and_the_:visited_selector
@@ -3759,6 +3759,10 @@
 /ja/docs/Web/CSS/min	/ja/docs/Web/CSS/min()
 /ja/docs/Web/CSS/minmax	/ja/docs/Web/CSS/minmax()
 /ja/docs/Web/CSS/normal	/ja/docs/Web/CSS/font-variant
+/ja/docs/Web/CSS/offset-block-end	/ja/docs/Web/CSS/inset-block-end
+/ja/docs/Web/CSS/offset-block-start	/ja/docs/Web/CSS/inset-block-start
+/ja/docs/Web/CSS/offset-inline-end	/ja/docs/Web/CSS/inset-inline-end
+/ja/docs/Web/CSS/offset-inline-start	/ja/docs/Web/CSS/inset-inline-start
 /ja/docs/Web/CSS/paint	/ja/docs/Web/CSS/image/paint()
 /ja/docs/Web/CSS/paint()	/ja/docs/Web/CSS/image/paint()
 /ja/docs/Web/CSS/radial-gradient	/ja/docs/Web/CSS/gradient/radial-gradient()
@@ -3786,7 +3790,7 @@
 /ja/docs/Web/CSS/transform-function/skewY	/ja/docs/Web/CSS/transform-function/skewY()
 /ja/docs/Web/CSS/transform-function/translate	/ja/docs/Web/CSS/transform-function/translate()
 /ja/docs/Web/CSS/transform-function/translate3d	/ja/docs/Web/CSS/transform-function/translate3d()
-/ja/docs/Web/CSS/transform-function/translateX	/ja/docs/orphaned/Web/CSS/transform-function/translateX
+/ja/docs/Web/CSS/transform-function/translateX	/ja/docs/Web/CSS/transform-function/translateX()
 /ja/docs/Web/CSS/transform-function/translateY	/ja/docs/Web/CSS/transform-function/translateY()
 /ja/docs/Web/CSS/transform-function/translateZ	/ja/docs/Web/CSS/transform-function/translateZ()
 /ja/docs/Web/CSS/uri	/ja/docs/Web/CSS/url()
